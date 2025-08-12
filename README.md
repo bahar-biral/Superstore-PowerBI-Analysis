@@ -22,7 +22,8 @@ It features **dynamic filtering, page navigation, advanced DAX calculations, and
 ---
 
 ## 📂 Page 1 - Overview
-(https://github.com/bahar-biral/Superstore-PowerBI-Analysis/blob/main/Overview.Page1.png)
+![Page 1 Overview](https://github.com/bahar-biral/Superstore-PowerBI-Analysis/blob/main/Overview.Page1.png?raw=true)
+
 - **Total Sales by Year** *(Area Chart)*  
   From 2014–2017, sales increased each year, peaking in **November** annually.
 - **Sales & Profit Trends** *(Line Chart)*  
