@@ -4,7 +4,7 @@
 This project presents a comprehensive **sales, profitability, and geographic analysis** using the **Global Superstore** dataset in Power BI.  
 It features **dynamic filtering, page navigation, advanced DAX calculations, and interactive visualizations** to create an intuitive and insightful dashboard.
 
----
+***
 
 ## 🚀 Key Features
 - **Slicer Panel**: Toggle all slicers on/off via a filter icon (created with bookmarks)
@@ -19,7 +19,7 @@ It features **dynamic filtering, page navigation, advanced DAX calculations, and
   - Average order value
   - Average daily sales
 
----
+***
 
 ## 📂 Page 1 - Overview
 ![Page 1 Overview](https://github.com/bahar-biral/Superstore-PowerBI-Analysis/blob/main/Overview.Page1.png?raw=true)
@@ -36,10 +36,11 @@ It features **dynamic filtering, page navigation, advanced DAX calculations, and
   - Product → Canon imageCLASS 2200 Advanced Copier  
   - State → California
 
----
+***
 
 ## 📂 Page 2 - Detailed Analysis
-(https://github.com/bahar-biral/Superstore-PowerBI-Analysis/blob/main/Detailed%20Analysis.Page2.png)
+![Page 2 Detailed Analysis](https://github.com/bahar-biral/Superstore-PowerBI-Analysis/blob/main/Detailed%20Analysis.Page2.png?raw=true)
+
 - **This Year vs. Last Year Sales** → With time slicer for drill-down
 - **Segment Performance**:
   - Highest sales → Consumer  
@@ -53,10 +54,11 @@ It features **dynamic filtering, page navigation, advanced DAX calculations, and
 - **Profit Distribution (Bar Chart)**:
   - Categories below average profit highlighted in red (e.g., Furniture → Tables)
 
----
+***
 
 ## 📂 Page 3 - Geographic Analysis
-(https://github.com/bahar-biral/Superstore-PowerBI-Analysis/blob/main/Geographic%20Analysis.Page3.png)
+![Page 3 Geographic Analysis](https://github.com/bahar-biral/Superstore-PowerBI-Analysis/blob/main/Geographic%20Analysis.Page3.png?raw=true)
+
 - **Sales & Profit by Region (Ribbon Chart)** → West region leads in sales every year
 - **Map Visualization**:
   - Hover over a state to see:
@@ -64,15 +66,10 @@ It features **dynamic filtering, page navigation, advanced DAX calculations, and
     - Most valuable customer  
   - Most profitable state → California
 
----
+***
 
 ## 🛠 Techniques Used
 - **Power BI Bookmarks** for dynamic slicer panel and page navigation
 - **Advanced DAX calculations** for KPIs and performance metrics
 - **Interactive tooltips** on maps for detailed state-level insights
 - **Top N / Bottom N filtering** for profitability analysis
-
-
-
-
-
