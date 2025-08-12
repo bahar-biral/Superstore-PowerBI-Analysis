@@ -57,7 +57,7 @@ It features **dynamic filtering, page navigation, advanced DAX calculations, and
 ***
 
 ## 📂 Page 3 - Geographic Analysis
-![Page 3 Geographic Analysis](https://github.com/bahar-biral/Superstore-PowerBI-Analysis/blob/main/Geographic%20Analysis.Page3.png?raw=true)
+![Page 3 Geographic Analysis]([https://github.com/bahar-biral/Superstore-PowerBI-Analysis/blob/main/Geographic%20Analysis.Page3.png?raw=true](https://github.com/bahar-biral/Superstore-PowerBI-Analysis/blob/main/Geographic%20Analysis.Page3%20(Tooltips).png))
 
 - **Sales & Profit by Region (Ribbon Chart)** → West region leads in sales every year
 - **Map Visualization**:
